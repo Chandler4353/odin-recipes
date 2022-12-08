@@ -1,1 +1,1 @@
-A recipe website to help demonstrate my what I have learned about HTML.
+A recipe website to help demonstrate what I have learned about HTML.
