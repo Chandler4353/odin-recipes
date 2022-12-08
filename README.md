@@ -1,1 +1,1 @@
-# odin-recipes
+A recipe website to help demonstrate my what I have learned about HTML.
